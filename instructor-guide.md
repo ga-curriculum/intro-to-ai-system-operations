@@ -25,7 +25,7 @@ By the end of this session, students will be able to:
 ## Delivery Notes & Teaching Tips
 
 ### 1. Key Components of AI-Enabled Systems
-* **The "Microservices" Analogy:** Mid-career professionals are likely familiar with microservices. Frame the ML components (Data Pipeline, Feature Store, Model Serving) as specialized microservices that must communicate efficiently. 
+* **The "Microservices" Analogy:** Students are likely familiar with microservices. Frame the ML components (Data Pipeline, Feature Store, Model Serving) as specialized microservices that must communicate efficiently. 
 * **Whiteboarding is Key:** Do not just rely on slides. Draw the system out dynamically. Start with the user, then the application, then back into the serving endpoint, and finally the data pipelines that feed it. 
 * **Focus on the Bottlenecks:** Emphasize that the model itself is often the smallest part of the system. Spend time discussing how a brittle data pipeline compromises the entire system.
 
