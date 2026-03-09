@@ -106,8 +106,8 @@ flowchart TD
     Warning -.->|Leads to| Result
     
     %% Styling for emphasis
-    style Warning fill:#000000,stroke:#ff0000,stroke-width:2px
-    style Result fill:#000000,stroke:#ff9900
+    style Warning fill:#ffffff,stroke:#ff0000,stroke-width:2px
+    style Result fill:#ffffff,stroke:#ff9900
 ```
 <br/> 
 
@@ -215,7 +215,7 @@ else:
 > [Lab: System Landscape Mapping](https://git.generalassemb.ly/ai-systems-engineering-reliability/lab-1-system-landscape-mapping)
 > 
 > Note: Please refer to the dedicated [Lab Guide](https://git.generalassemb.ly/ai-systems-engineering-reliability/lab-1-system-landscape-mapping)
- for full instructions, architectural constraints, and deliverables.* 
+ for full instructions, architectural constraints, and deliverables.
 
 
 ---
