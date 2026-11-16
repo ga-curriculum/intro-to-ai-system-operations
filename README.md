@@ -212,9 +212,9 @@ else:
 
 > [!NOTE]
 >
-> [Lab: System Landscape Mapping](https://git.generalassemb.ly/ai-systems-engineering-reliability/lab-1-system-landscape-mapping)
+> [Lab: System Landscape Mapping](https://github.com/ga-curriculum/lab-1-system-landscape-mapping)
 > 
-> Note: Please refer to the dedicated [Lab Guide](https://git.generalassemb.ly/ai-systems-engineering-reliability/lab-1-system-landscape-mapping)
+> Note: Please refer to the dedicated [Lab Guide](https://github.com/ga-curriculum/lab-1-system-landscape-mapping)
  for full instructions, architectural constraints, and deliverables.
 
 
